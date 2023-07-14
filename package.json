@@ -26,6 +26,9 @@
     "3d-tiles-tools": "./build/main"
   },
   "dependencies": {
+    "@gltf-transform/core": "^3.4.8",
+    "@gltf-transform/extensions": "^3.4.8",
+    "@gltf-transform/functions": "^3.4.8",
     "archiver": "^5.3.1",
     "better-sqlite3": "^8.0.1",
     "cesium": "^1.103.0",
